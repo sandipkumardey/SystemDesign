@@ -5,7 +5,7 @@ This repo is for SystemDesign...
 
 - [ ]  **Storage**
 - [ ]  **Scalibility**
-- [ ]  **Networking**
+- [x]  **Networking**
 - [ ]  **Latency, Throughout and Performance**
 - [ ]  **Fault Tolerance & Redundancy**
-- [ ]  **CAP Theorm**
+- [x]  **CAP Theorm**
